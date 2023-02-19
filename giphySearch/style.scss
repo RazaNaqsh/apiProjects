@@ -1,0 +1,23 @@
+body {
+	background-color: #334155;
+}
+
+.container {
+	margin-top: 5rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 2rem;
+}
+img {
+	max-height: 30rem;
+	max-width: 30rem;
+	object-fit: cover;
+}
+input {
+}
+button,
+input {
+	padding: 1rem;
+}
