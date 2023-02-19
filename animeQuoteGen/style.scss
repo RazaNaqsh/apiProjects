@@ -1,0 +1,33 @@
+body {
+	background-color: #334155;
+}
+
+.container {
+	display: flex;
+	margin-inline: auto;
+	height: 80vh;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	max-width: 50vw;
+}
+
+h1 {
+	color: #86efac;
+}
+
+h2 {
+	color: #67e8f9;
+}
+
+p {
+	color: #fef08a;
+	letter-spacing: 1px;
+	font-size: 1.1rem;
+}
+
+button {
+	padding: 1rem;
+	background-color: #f5d0fe;
+	border: none;
+}
